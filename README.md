@@ -19,7 +19,7 @@ Estilos: SCSS (compilado a CSS)
 Base de datos: SQLite
 Control de versiones: Git + GitHub
 
-III. Estructura del proyecto
+## III. Estructura del proyecto
 dogstore/
 │
 ├── tienda/
